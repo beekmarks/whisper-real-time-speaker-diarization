@@ -40,9 +40,9 @@ A real-time speaker diarization web application that combines Whisper's speech r
    ```
    Or using any other static file server of your choice.
 
-   For development purposes use:  `npm run dev`
-
 3. Open your web browser and navigate to `http://localhost:8000`
+
+For development purposes use:  `npm run dev` then open your web browser and navigate to `http://localhost:5173`
 
 ## Usage
 
