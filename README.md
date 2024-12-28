@@ -51,7 +51,7 @@ For development purposes use:  `npm run dev` then open your web browser and navi
 3. The application will process the audio in real-time:
    - Transcribing the speech using Whisper
    - Identifying different speakers using PyAnnote
-   - Displaying the results with speaker labels and timestamps
+   - Displaying the results with speaker labels
 
 ## Technical Details
 
